@@ -1,0 +1,2 @@
+python-igraph
+csvkit<1.0
