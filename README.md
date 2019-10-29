@@ -11,5 +11,5 @@ from the [tax forms that nonprofits submit to the IRS](https://en.wikipedia.org/
 
 Using a program like [yEd](https://www.yworks.com/products/yed), you can open up `org.gml` and do graph analysis and make visualisations like below.
 
-
+![Ann Arbor Board Interlock Visualisation](https://github.com/fgregg/ann_arbor_990/blob/master/Screenshot_2019-10-29%20org%20pdf.png)
 
